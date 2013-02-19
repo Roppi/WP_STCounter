@@ -1,7 +1,9 @@
 <?php
 /*
 Plugin Name: Simple Title Counter
+Plugin URI: http://www.roppi.net/2013/02/wp_plugin_simple_title_counter/
 Description: タイトルの文字数を投稿画面に表示するだけのプラグインです。
+License: MIT
 Author: Roppi
 Version: 0.1
 Author URI: http://www.roppi.net
